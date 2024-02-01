@@ -3,7 +3,6 @@ Senior Design Repository for the Statefarm Automotive Fraud Project
 
 ## Statistics
 
-
 ![Pagespeed](/metrics.plugin.pagespeed.svg)
 ![SMAREScreenShot](/metrics.plugin.screenshot.svg)
 
